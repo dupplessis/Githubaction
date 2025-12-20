@@ -4,6 +4,11 @@ This project demonstrates a real-world CI/CD pipeline using GitHub Actions with 
 On every push , the application is automatically built and deployed as a Docker container on EC2.
 
 
+
+![project-flow](images/project-flow.png)
+
+
+
 ##  Key Components
 
 GitHub Actions – CI/CD orchestration
