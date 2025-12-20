@@ -60,7 +60,11 @@ Add:
 | DOCKERHUB_USERNAME | Docker Hub username    |
 | DOCKERHUB_TOKEN    | Docker Hub access token|
 
+
+
+
 ![git-secrets](images/git-secrets.png)
+
 
 
 ## STEP 4️⃣ Install GitHub Self-Hosted Runner
@@ -71,9 +75,16 @@ Choose Linux (x64) and copy commands.
 
 4.2 Install Runner on EC2 with the provided commands shown in the GitHub
 
+
+
 ![Runner](images/Runner-registration01.png)
 
+
+
+
 ![Runner](images/Runner-registration02.png)
+
+
 
 
 ## STEP 5️⃣ Project Structure
@@ -179,7 +190,9 @@ Workflow should run automatically
 
 Runner: self-hosted
 
+
 ![Action-File](images/Action-File.png)
+
 
 
 ## STEP 1️⃣1️⃣ Verify on EC2
@@ -202,7 +215,7 @@ Open browser:
 http://<EC2_PUBLIC_IP>
 ```
 
-![application-access](images/application-acces.png)
+![application-access](images/application-access.png)
 
 
 # Conclusion
