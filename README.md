@@ -29,7 +29,7 @@ Sample Python application
 
  HTTP: 80
 
-![ec2-instance](Images/ec2-instance.png)
+![ec2-instance](images/ec2-instance.png)
 
 ## STEP 2️⃣ Install Docker on EC2
 ```sh
