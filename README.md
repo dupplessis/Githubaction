@@ -58,7 +58,7 @@ Add:
 | Secret Name        | Value                  |
 |--------------------|------------------------|
 | DOCKERHUB_USERNAME | Docker Hub username    |
-| DOCKERHUB_TOKEN    | Docker Hub access token|
+| DOCKERHUB_PASSWORD | Docker Hub access token|
 
 
 
